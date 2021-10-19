@@ -1,7 +1,7 @@
 # Music Recommender System
 
 ## Overview
-This project aims to built and evaluate a collaborative-filter based recommender system for music recommendation.
+This project aims to built and evaluate a collaborative-filter based recommender system for a music dataset.
 
 ## Dataset
 [Million Song Dataset](http://millionsongdataset.com/) (MSD) collected by 
