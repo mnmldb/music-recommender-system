@@ -52,4 +52,4 @@ The mean Average Precision (mAP) was used as an evaluation metrics (see PySpark'
 Additionaly, the popularity-based model was trained as a baseline to compare the performance of the collaborative-filter based model: see https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_3 , section 3.2; or the `bias` implementation provided by [lenskit](https://lkpy.readthedocs.io/en/stable/bias.html) for details.
 
 ## Result
-Click here to see the report.
+Click here to see the [report](https://github.com/mnmldb/music-recommender-system/blob/master/Report.pdf).
